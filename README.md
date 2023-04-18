@@ -6,5 +6,5 @@ The user's height and weight inputs must be entered in inches and pounds, respec
 ## BMI Purposes
 A BMI is an indication of an individual's health status and their potential health risks. Essentially, the BMI measures a person's weight in proportion to their height. Different heights have ideal weights, and the BMI calculator accounts for all variations.
 An ideal or "healthy" BMI lies between 18.5 and 24.9. Values below this interval are considered "underweight", while values above can be either "overweight" or "obese".
-## Link to access the calculator 
+## Link to Access the Calculator 
 https://demanij.github.io/Congress-App/
